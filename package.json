@@ -1,0 +1,16 @@
+{
+  "name": "nostr-key-value-sample",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "shino3",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nostr-key-value": "^0.3.4",
+    "nostr-tools": "^1.16.0",
+    "websocket-polyfill": "^0.0.3"
+  }
+}
