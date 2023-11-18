@@ -36,7 +36,7 @@ npm install
 # 1. GET
 node 1_get_key_value.js
 # 2. UPDATE
-node 1_set_key_value.js
+node 2_set_key_value.js
 # 3. BOT Start
-node 1_bot_script_example.js
+node 3_bot_script_example.js
 ```
